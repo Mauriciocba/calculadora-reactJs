@@ -1,0 +1,19 @@
+.Boton-Borrar{
+    height: 80px;
+    font-size: 1.6em;
+    display: flex;
+    flex: 1;
+    background-color: brown;
+    margin-top: 6px;
+    align-items: center;
+    font-weight: bold;
+    justify-content: center;
+    color: white;
+    border:1px solid white;
+    cursor: pointer;    
+    user-select: none;
+}
+
+.Boton-Borrar:hover{
+    background-color: red;
+}
